@@ -137,19 +137,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #4169e1 !important;
+  background-color: #011638 !important;
 }
 
 .text-primary {
-  color: #4169e1 !important;
+  color: #011638 !important;
 }
 
 a {
-  color: #4169e1;
+  color: #011638;
 }
 
 a:hover, a:focus, a:active {
-  color: #809ef7;
+  color: #03378C;
 }
 
 .text_block {
@@ -190,7 +190,7 @@ a:hover, a:focus, a:active {
   transform: translateX(-50%);
   width: 175px;
 
-  background: #4169e1;
+  background: #011638;
   padding: 10px;
 
 }
@@ -260,7 +260,7 @@ unstack the blocks */
 }
 
 .research_header {
-  border-bottom: 2px solid #809ef7;
+  border-bottom: 2px solid #03378C;
   text-align: center;
   padding-bottom: 3px;
 }
@@ -326,5 +326,5 @@ img:hover {
 .interests_label {
   text-align: center;
   margin-bottom: 0px;
-  /* border-top: solid 2px #809ef7; */
+  /* border-top: solid 2px #03378C; */
 }
